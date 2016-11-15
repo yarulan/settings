@@ -9,3 +9,10 @@ mv github-yarulan-settings-clone-dir/.git ./ && \
 rm -rf github-yarulan-settings-clone-dir && \
 git ls-files -d | xargs git checkout --
 ```
+
+## Cleanup
+```bash
+cd ~ && \
+rm -rf .git && \
+rm .gitignore
+```
