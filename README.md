@@ -1,5 +1,7 @@
 # Settings
 
+Repository for settings backup and syncronization.
+
 ## Cloning to a fresh machine
 
 ```bash
