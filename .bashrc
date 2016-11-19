@@ -3,3 +3,12 @@
 echo "Loading ~/.bashrc"
 
 source ~/.bash_aliases.sh
+
+mkproj () {
+    projname=$1
+    tmplname=$2
+    git clone git@github.com:yarulan/misc.git $projname && \
+    cd $projname && \
+    git checkout $tmplname && \
+    rm -rf .git
+}
