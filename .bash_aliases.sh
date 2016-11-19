@@ -24,3 +24,4 @@ alias gd="git diff"
 
 alias gr="git reset"
 alias grs="git reset && git status"
+alias grh="git reset --hard"
