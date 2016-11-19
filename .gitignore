@@ -1,5 +1,6 @@
 /*
 !/.gitignore
+!/.gitattributes
 !/.bashrc
 !/.bash_aliases.sh
 !/bin
