@@ -2,5 +2,6 @@
 !/.gitignore
 !/.gitattributes
 !/.bashrc
+!/.env
 !/.bash_aliases.sh
 !/bin

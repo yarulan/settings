@@ -1,5 +1,7 @@
 # loaded from ~/.bashrc
 
+alias subl="\"${SUBLIME_HOME}/sublime_text\""
+
 alias g="git"
 
 alias gs="git status"
